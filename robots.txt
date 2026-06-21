@@ -1,0 +1,10 @@
+# robots.txt — A+M Arquitectos
+# https://www.am-arquitectos.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://www.am-arquitectos.com/sitemap.xml
